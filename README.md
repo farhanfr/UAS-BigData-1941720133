@@ -1,5 +1,8 @@
 # UAS-BigData-1941720133
 
+## Studi Kasus
+Menampilkan data-data atlet olimpiade berserta menghitung jumlah medali yang diperoleh
+
 ## Screenshoot Hasil
 ### Hasil
 ![hasil](https://user-images.githubusercontent.com/37490092/175779125-883e7fa7-cf9f-40d6-8037-dcf1eb61d8c6.PNG)
